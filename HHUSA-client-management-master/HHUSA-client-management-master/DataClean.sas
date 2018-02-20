@@ -1,5 +1,5 @@
 PROC IMPORT 
-        DATAFILE= "C:\Users\VenksUV\Desktop\HHUSA-Project\Contact_new.csv"
+        DATAFILE= "C:\Users\gvsva\Desktop\HHUSA-Project\Contact_new.csv"
 OUT=contact dbms=csv  
       REPLACE;
     GETNAMES= YES;
@@ -36,7 +36,7 @@ if (selected =1) then output;run;
 
 ---------------------------------------------------------------------------------------------------------------
 PROC IMPORT 
-        DATAFILE= "C:\Users\VenksUV\Desktop\HHUSA-Project\Contact_Log.csv"
+        DATAFILE= "C:\Users\gvsva\Desktop\HHUSA-Project\Contact_Log.csv"
 OUT=contact dbms=csv  
       REPLACE;
     GETNAMES= YES;
