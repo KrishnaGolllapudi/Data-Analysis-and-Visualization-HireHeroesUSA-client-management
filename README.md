@@ -3,7 +3,7 @@ Hire Heroes USA Client Management
 
 Big Data and Analytics techniques to help a non-profit organization HHUSA, better understand and optimize factors that affect their client management process, staff activities and the employment opportunities offered to veterans.
 
-•	Developed a multiple regression model which explains 27% of the variation in how quickly a veteran gets hired.
+•	Developed a multiple models which explains 27% of the variation in how quickly a veteran gets hired.
 
 •	Developed a performance metric that segments between efficient and non-efficient veterans. Non efficient veterans would benefit from extra HHUSA support.
 
